@@ -1,6 +1,7 @@
 name: john
 favicon: null
-layout_spectrum: 0.21714
+layout_spectrum: 0.25714
+typography_spectrum: 0.66572
 cta:
   domain: null
   bucket: null
@@ -22,7 +23,7 @@ color:
     - '#989898'
   brandStrength: 0.8125
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose:
   - name: follow
