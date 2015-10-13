@@ -1,6 +1,6 @@
 name: john
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.21714
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
